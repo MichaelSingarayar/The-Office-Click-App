@@ -16,25 +16,25 @@ function Container(props) {
         <img src={jim} alt="jim"  />
 
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property2">
         <img src={michael} alt="michael" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property3">
         <img src={pam} alt="pam" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property4">
         <img src={angela} alt="jim" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property5">
         <img src={toby} alt="toby" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property5">
         <img src={dwight} alt="dwight" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property6">
         <img src={andy} alt="andy" />
         </div>
-        <div>
+        <div onClick={() => props.handleClick()} id ="property7">
         <img src={creed} alt="creed" />
         </div>
         </>

@@ -13,6 +13,7 @@ class Counter extends React.Component  {
     handleIncrement = () => {
       // We always use the setState method to update a component's state
       this.setState({ score: this.state.score + 1 });
+      this.setState({ topScore: this.state.topScore + 1 });
       console.log("Got clicked!!!!");
       
     };
@@ -26,7 +27,7 @@ class Counter extends React.Component  {
       return (
         <>
         <nav>
-          <NavBar score= {this.state.score} />
+          <NavBar score= {this.state.score} topScore={this.state.topScore} />
         </nav>
         <div className="img">
         <Container handleClick= {this.handleIncrement} />

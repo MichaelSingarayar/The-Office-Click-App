@@ -14,7 +14,7 @@ function NavBar(props) {
         
             <li className="nav-item">Click an image to begin!</li>
 
-            <li className="nav-item">Score: {props.score} | Top Score: 0</li>
+            <li className="nav-item">Score: {props.score} | Top Score: {props.topScore}</li>
 
 
 
