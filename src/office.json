@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "name": "Jim Halpurt",
+      "image": "assets/images/jim.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "Andy Bernard",
+      "image": "assets/images/andy.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Angela",
+      "image": "assets/images/Angela.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Creed",
+      "image": "assets/images/creed.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Dwight",
+      "image": "assets/images/dwight.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "Michael Scott",
+      "image": "assets/images/michael.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Pam",
+      "image": "assets/images/pam.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Toby",
+      "image": "assets/images/toby.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Kevin",
+      "image": "assets/images/kevin.jpeg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Stanley",
+      "image": "assets/images/stanley.jpeg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Kelly",
+      "image": "assets/images/kelly.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Darryl",
+      "image": "assets/images/darryl.jpg",
+      "isClicked": false
+    }
+  ]

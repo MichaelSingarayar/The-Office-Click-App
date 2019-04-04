@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/The-Office-Click-App/precache-manifest.0422aeb1053a1c28bd72222cd705a58d.js"
+  "/The-Office-Click-App/precache-manifest.878cc5769ac1b31a7a83b2152e733080.js"
 );
 
 workbox.clientsClaim();

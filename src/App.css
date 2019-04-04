@@ -1,58 +1,18 @@
-body {
-padding-top: 65px;
-padding-bottom: 65px;
-}
-
-nav {
-  display: block;
-}
-
-
-.navbar {
-  
-  min-height: 70px;
-  position: fixed;
-  width: 100%;
-  -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
-  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
-  
-  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
-  z-index: 99;
-  white-space: nowrap;
-}
-.navbar ul {
-  margin: 0;
-  padding: 0;
-  width: 100%;
- 
-}
-
-.navbar li {
-  display: inline-block;
-  padding: 26px 0;
-  width: 33.3%;
-  text-align: center;
-  
-  
-}
-
-.img {
+.content {
+  display: -ms-flexbox;
   display: flex;
+  min-height: 70%;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  flex-direction: row;
-  
-}
-img {
-  height: 200px;
-  width: 200px;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 90%;
+  margin: 0 auto;
 }
 
-footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: grey;
-  padding: 8px;
-  font-weight: 600;
+.App {
+  min-width: 350px;
 }
+
