@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.ced652b1.chunk.css",
-  "main.js": "/static/js/main.3bf0386c.chunk.js",
-  "main.js.map": "/static/js/main.3bf0386c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.5daf0c3a.chunk.js": "/static/js/2.5daf0c3a.chunk.js",
-  "static/js/2.5daf0c3a.chunk.js.map": "/static/js/2.5daf0c3a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.69ce498a8113fef513dd62cf3ea59cd1.js": "/precache-manifest.69ce498a8113fef513dd62cf3ea59cd1.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.ced652b1.chunk.css.map": "/static/css/main.ced652b1.chunk.css.map"
+  "main.css": "/The-Office-Click-App/static/css/main.ced652b1.chunk.css",
+  "main.js": "/The-Office-Click-App/static/js/main.3bf0386c.chunk.js",
+  "main.js.map": "/The-Office-Click-App/static/js/main.3bf0386c.chunk.js.map",
+  "runtime~main.js": "/The-Office-Click-App/static/js/runtime~main.2b91a89d.js",
+  "runtime~main.js.map": "/The-Office-Click-App/static/js/runtime~main.2b91a89d.js.map",
+  "static/js/2.5daf0c3a.chunk.js": "/The-Office-Click-App/static/js/2.5daf0c3a.chunk.js",
+  "static/js/2.5daf0c3a.chunk.js.map": "/The-Office-Click-App/static/js/2.5daf0c3a.chunk.js.map",
+  "index.html": "/The-Office-Click-App/index.html",
+  "precache-manifest.23653ccf108c455dda8fc2c380ab5fb5.js": "/The-Office-Click-App/precache-manifest.23653ccf108c455dda8fc2c380ab5fb5.js",
+  "service-worker.js": "/The-Office-Click-App/service-worker.js",
+  "static/css/main.ced652b1.chunk.css.map": "/The-Office-Click-App/static/css/main.ced652b1.chunk.css.map"
 }
